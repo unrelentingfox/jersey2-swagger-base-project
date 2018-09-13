@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="request-basic-proto:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jersy-swagger-base-ws-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="request-basic-proto:war exploded" />
+    </root>
+  </artifact>
+</component>

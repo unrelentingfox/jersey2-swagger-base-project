@@ -1,0 +1,8 @@
+prettyPrint: true
+cacheTTL: 0
+openAPI:
+  info:
+    version: '0.0.1-SNAPSHOT'
+    title: 'jersy-swagger-base-ws'
+  servers:
+  - url: '/api'
